@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geekLections</title>
+    <description>inClement elections, geekily.
+</description>
+    <link>https://blog.geeklections.com.au/</link>
+    <atom:link href="https://blog.geeklections.com.au/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 31 Mar 2016 00:27:56 +1100</pubDate>
+    <lastBuildDate>Thu, 31 Mar 2016 00:27:56 +1100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>New Blog!</title>
+        <description>&lt;h3 id=&quot;election-season-is-upon-us&quot;&gt;Election season is upon us!&lt;/h3&gt;
+
+&lt;p&gt;2016 is (&lt;a href=&quot;https://en.wikipedia.org/wiki/Next_Australian_federal_election#Constitutional_and_legal_provisions&quot;&gt;most probably&lt;/a&gt;) the year of the next Federal election. There’s tons of interesting things happening in local politics, and this means plenty of analysis:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The LNP dropping in the two party preferred polls&lt;/li&gt;
+  &lt;li&gt;Senate reform &lt;em&gt;might&lt;/em&gt; be happening&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Nick_Xenophon_Team&quot;&gt;Nick Xenophon Team&lt;/a&gt; is polling quite &lt;a href=&quot;https://twitter.com/GhostWhoVotes/status/698980485880373248&quot;&gt;well&lt;/a&gt; in South Australia (big bump to the &lt;em&gt;other&lt;/em&gt; vote since &lt;a href=&quot;https://twitter.com/GhostWhoVotes/status/633042075542548480&quot;&gt;last&lt;/a&gt; Ipsos poll.)&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;http://aec.gov.au/media/media-releases/2016/02-25.htm&quot;&gt;NSW Redistribution&lt;/a&gt; has been finalised&lt;/li&gt;
+  &lt;li&gt;Secret &lt;a href=&quot;https://www.buzzfeed.com/markdistefano/the-pms-office-accidentally-invited-me-to-a-strategy-meeting&quot;&gt;meetings&lt;/a&gt; are happening for (maybe) announcements tomorrow…&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I will be updating the site over the next few weeks, with hopefully more content like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/dank_assets/2016-03-14_turnbull_effect.jpg&quot; alt=&quot;Hardly dank&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That is far more pretty, perhaps looking more like &lt;a href=&quot;http://c3js.org/samples/chart_bar.html&quot;&gt;this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, if you hate the new site design. Please, feel free to fix the css for me. I might buy you a beer.&lt;/p&gt;
+
+&lt;p&gt;The historical election sites don’t currently redirect to &lt;a href=&quot;http://blog.geeklections.com.au/&quot;&gt;blog.geeklections.com.au&lt;/a&gt;, and I’m currently in the process of working through that now. Sorry if you end up getting lost and can’t find yourself again!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/geeklections&quot;&gt;geekLections&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twitter.com/keypadsdm&quot;&gt;Thomas Clement&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Mar 2016 20:30:00 +1100</pubDate>
+        <link>https://blog.geeklections.com.au/site/2016/03/14/new-blog.html</link>
+        <guid isPermaLink="true">https://blog.geeklections.com.au/site/2016/03/14/new-blog.html</guid>
+        
+        <category>Site</category>
+        
+        
+        <category>Site</category>
+        
+      </item>
+    
+      <item>
+        <title>How the Liberals got everything they wanted in NSW, but not what they asked for</title>
+        <description>&lt;p&gt;Tony Abbott asked the population of Australia to “vote for one of the major parties”. It’s a strong statement. He doesn’t want to be dealing with the minor parties to pass legislation through the senate. But, little did he know, a disregard for this message by near 6%* of the population of NSW has advantaged him greatly in his quest for passage of legislation through the Senate.&lt;/p&gt;
+
+&lt;p&gt;The worst case scenario for the Liberal-National Coalition government, after the senate changes hands next year, would be ALP and Greens senators numbering 38 or more. With that, they need bipartisan support with either the Greens or the ALP to pass any legislation. Although the ALP and Green senators have taken a hit from Palmer United (amongst others), the biggest one was the Liberal Democratic Party (LDP) in NSW.&lt;/p&gt;
+
+&lt;p&gt;If the LDP had polled 6% less, and the LNP had polled 6% more (i.e. if Liberal voters had bothered to find the Liberal-National ticket on the gigantic senate paper), then the Greens would have most probably (~52%) picked up a senate spot in NSW. Similarly, it would have left Pauline Hanson with a 10% chance of getting a seat against either the Greens or Arthur Sinodinos (sitting Liberal Senator, up for Re-election, third on the ticket).&lt;/p&gt;
+
+&lt;p&gt;As it stands, this is the best possible outcome the Coalition could have hoped for in the Senate. Bleeding some Liberal votes towards the LDP, and taking out a Greens senate spot with Arthur Sinodinos polling just enough to keep ahead. They could not have asked for a better result in NSW.&lt;/p&gt;
+
+&lt;p&gt;We will find out in the days to come what the true Senate composition will be. But without the need for Nick Xenophon, The Greens or The ALP; the Coalition will be able to pass legislation with minor Libertarian, Conservative and/or Right Wing parties.&lt;/p&gt;
+
+&lt;p&gt;Note: All of the above analysis assumes that the current count (as of 4pm 8th of September, 2013) is accurate and reflects the newly elected Senators.
+*The number 6% is derived from the primary votes gained by the Liberal Democratic Party in 2010. With little additional media attention since then, I am making the assumption that true Liberal voters saw the word “Liberal” and voted above the line, or that many voters made a donkey vote and voted for the first party on the ticket.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Sep 2013 15:44:00 +1000</pubDate>
+        <link>https://blog.geeklections.com.au/federal/2013/senate/nsw/2013/09/08/how-the-liberals.html</link>
+        <guid isPermaLink="true">https://blog.geeklections.com.au/federal/2013/senate/nsw/2013/09/08/how-the-liberals.html</guid>
+        
+        <category>Federal</category>
+        
+        <category>2013</category>
+        
+        <category>Senate</category>
+        
+        <category>NSW</category>
+        
+        
+        <category>federal</category>
+        
+        <category>2013</category>
+        
+        <category>senate</category>
+        
+        <category>nsw</category>
+        
+      </item>
+    
+  </channel>
+</rss>
